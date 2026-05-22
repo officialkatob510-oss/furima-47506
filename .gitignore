@@ -28,8 +28,11 @@
 /tmp/storage/*
 !/tmp/storage/
 !/tmp/storage/.keep
+.Ds_Store
 
 /public/assets
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+*Zone.Identifier

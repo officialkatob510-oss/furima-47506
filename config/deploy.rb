@@ -1,4 +1,4 @@
-lock '~> 3.19.2'
+lock '~> 3.20.1'
 
 set :application, 'furima-47506'
 set :repo_url, 'git@github.com:officialkatob510-oss/furima-47506.git'
